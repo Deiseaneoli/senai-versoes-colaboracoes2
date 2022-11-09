@@ -1,6 +1,6 @@
-# senai-versoes-colaboracoes2
-Repositório de versões e colaborações.
-
+<<<<<<< HEAD
 readme de exemplo.
 
 lembrei do comando: git commit
+lembrei do comando: git status
+
